@@ -12,7 +12,6 @@
       <width>-1</width>
       <height>-1</height>
     </image>
-    <!-- > this is the begining of a feed link </!-->
     <item>
       <title>Live Gaming</title>
       <link>http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/Gb/siCt-V7LOSU08W_Ve1ByJY5N9emKZeXZvnrH2Yb9c/117_segment_2_twitch__nw_060515.mp4</link>
@@ -26,6 +25,5 @@
         <media:title>Live Gaming</media:title>
       </media:content>
     </item>
-    <!--> this is the end of a feed link</!-->
     </channel>
 </rss>
