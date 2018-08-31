@@ -76,23 +76,45 @@ body, html {
 <style>
 .container {
     position: relative;
-    font-family: Arial;
+    text-align: center;
+    color: white;
 }
 
-.text-block {
+.bottom-left {
     position: absolute;
-    bottom: 20px;
-    right: 20px;
-    background-color: black;
-    color: white;
-    padding-left: 20px;
-    padding-right: 20px;
+    bottom: 8px;
+    left: 16px;
+}
+
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+.bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 </style>
 </head>
 <body>
-<div class="bottom-left">Bottom Left</div>
 <div class="bg"></div>
+<div class="bottom-left">Bottom Left</div>
   <div class="top-left">Top Left</div>
   <div class="top-right">Top Right</div>
   <div class="bottom-right">Bottom Right</div>
