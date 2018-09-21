@@ -21,7 +21,7 @@
       <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/hls" width="1280" isDefault="true" url="http://weather-lh.akamaihd.net/i/twc_1@92006/index_1200_av-p.m3u8">
         <media:description>With the Twitch channel, you can watch the most popular broadcasts of the day, browse live broadcasts by the games you love and follow your favorite Twitch broadcasters.</media:description>
         <media:keywords>episode 21, roku recommends, twitch</media:keywords>
-        <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" />
+        <media:thumbnail url="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1200px-PBS_Kids_Logo.svg.png" />
         <media:title>Live Gaming</media:title>
       </media:content>
     </item>
