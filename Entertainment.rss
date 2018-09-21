@@ -26,7 +26,7 @@
       </media:content>
     </item>
     <item>
-      <title>Disney</title>
+      <title>Nickelodean</title>
       <link>http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8</link>
       <description>With the Twitch channel, you can watch the most popular broadcasts of the day, browse live broadcasts by the games you love and follow your favorite Twitch broadcasters.</description>
       <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
@@ -34,7 +34,7 @@
       <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/hls" width="1280" isDefault="true" url="http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8">
         <media:description>With the Twitch channel, you can watch the most popular broadcasts of the day, browse live broadcasts by the games you love and follow your favorite Twitch broadcasters.</media:description>
         <media:keywords>episode 21, roku recommends, twitch</media:keywords>
-        <media:thumbnail url="https://www.2018auditions.com/wp-content/uploads/2015/05/Nickelodeon-old-school-nickelodeon-295359_1024_768.jpg" />
+        <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" />
         <media:title>Live Gaming</media:title>
       </media:content>
     </item>
